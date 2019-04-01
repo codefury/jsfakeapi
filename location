@@ -1,0 +1,39 @@
+[{
+	"_id": "10_LOCATION",
+	"label": "Faridabad",
+	"latitude": 77.3178,
+	"longitude": 28.4089,
+	"table_name": "city",
+	"localities": [{
+		"_id": "10368_LOCALITY",
+		"label": "Aravali Vihar",
+		"latitude": 77.2764,
+		"longitude": 28.398,
+		"createdAt": "2019-03-29T11:28:08.000Z",
+		"updatedAt": "2019-03-29T11:28:08.000Z",
+		"city_id": "10_LOCATION",
+		"sub_city_id": null,
+		"parent": "10_LOCATION"
+	}, {
+		"_id": "10522_LOCALITY",
+		"label": "Surajkund Bhadkal Road",
+		"latitude": 77.2903,
+		"longitude": 28.5018,
+		"createdAt": "2019-03-29T11:28:08.000Z",
+		"updatedAt": "2019-03-29T11:28:08.000Z",
+		"city_id": "10_LOCATION",
+		"sub_city_id": null,
+		"parent": "10_LOCATION"
+	}, {
+		"_id": "10524_LOCALITY",
+		"label": "Green Valley",
+		"latitude": 77.2978,
+		"longitude": 28.4727,
+		"createdAt": "2019-03-29T11:28:08.000Z",
+		"updatedAt": "2019-03-29T11:28:08.000Z",
+		"city_id": "10_LOCATION",
+		"sub_city_id": null,
+		"parent": "10_LOCATION"
+	}],
+	"locality": "Faridabad"
+}]
